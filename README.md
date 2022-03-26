@@ -14,6 +14,18 @@ More information about the plans for version 4 can be found in [the announcement
 The user guide corresponding to this version of the framework can be found
 [here](https://codeigniter4.github.io/userguide/).
 
+## Curriculum
+- [Belajar CodeIgniter 4 #1 : Installasi dan Konfigurasi](https://leravio.com/lessons/installasi-codeigniter-4/)
+- [Belajar CodeIgniter 4 #2 : Pengenalan Struktur Aplikasi](https://leravio.com/lessons/struktur-aplikasi-codeigniter-4/)
+- [Belajar CodeIgniter 4 #3 : Memahami Konsep MVC](https://leravio.com/lessons/konsep-mvc-di-codeigniter-4/)
+- [Belajar CodeIgniter 4 #4 : Membuat Migration dan Seeding](https://leravio.com/lessons/konsep-mvc-di-codeigniter-4/)
+- [Belajar CodeIgniter 4 #5 : Modeling Data](https://leravio.com/lessons/modeling-data-codeigniter-4/)
+- [Belajar CodeIgniter 4 #6 : Menampilkan Data](https://leravio.com/lessons/menampilkan-data-di-codeigniter-4/)
+- [Belajar CodeIgniter 4 #7 : Insert Data ke Database](https://leravio.com/lessons/insert-data-di-codeigniter-4/)
+- [Belajar CodeIgniter 4 #8 : Update Data](https://leravio.com/lessons/update-data-di-codeigniter-4/)
+- [Belajar CodeIgniter 4 #9 : Delete Data dari Database](https://leravio.com/lessons/delete-data-di-codeigniter-4/)
+- [Belajar CodeIgniter 4 #10 : Deploy CodeIgniter 4 ke Heroku](https://leravio.com/lessons/delete-data-di-codeigniter-4/)
+
 ## Installation & updates
 
 `composer create-project codeigniter4/appstarter` then `composer update` whenever
